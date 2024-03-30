@@ -14,3 +14,7 @@ Analyze key indicators for our pizza sales data to gain insights into business p
 4.Total_Orders: The total number of orders placed.
 
 5.Average_Pizzas_Per_Order: The average number of pizzas sold per order, calculated by dividing the total number of pizzas sold by the total number of orders. 
+
+
+!["Pizza Sales Analysis using MS Excel"](screenshot.png)
+
